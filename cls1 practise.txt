@@ -1,0 +1,3 @@
+rint ("Good evening all")
+print(''' this is vishnu''')
+print   ('he is a fucker')
