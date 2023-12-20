@@ -1,3 +1,10 @@
 rint ("Good evening all")
 print(''' this is vishnu''')
 print   ('he is a fucker')
+#creating a variable
+a= "hello world"
+print("a",a,"a")
+print(a)
+print("vishnu")
+print (a ," vishnu")
+print(a,a)
